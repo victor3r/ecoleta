@@ -3,6 +3,7 @@ import cors from 'cors';
 import path from 'path';
 import dotenv from 'dotenv';
 import routes from './routes';
+import { errors } from 'celebrate';
 
 dotenv.config();
 const app = express();
@@ -13,4 +14,6 @@ app.use(routes);
 
 app.use('/uploads', express.static(path.resolve(__dirname, '..', 'uploads')));
 
-app.listen(3333);
+app.use(errors());
+
+app.listen(process.env.PORT || 3333);
