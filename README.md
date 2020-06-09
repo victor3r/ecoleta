@@ -26,11 +26,11 @@
 
 This app features all the latest tools and practices in mobile development!
 
-- ⚛️ **React Js** — A JavaScript library for building user interfaces
-- ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
-- 💹 **Node Js** — An asynchronous, open source, event-driven JavaScript interpreter
-- 📟 **Celebrate** — A joi validation middleware for Express 
-- :iphone: **Expo** —  A tool used in mobile development with React Native that allows easy access to the device’s native API’s
+- ⚛️ [**React**](https://reactjs.org/) — A JavaScript library for building user interfaces
+- ⚛️ [**React Native**](https://reactnative.dev/) — A lib that provides a way to create native apps for Android and iOS
+- 💹 [**Node.js**](https://nodejs.org/en/) — An asynchronous, open source, event-driven JavaScript interpreter
+- 📟 [**Celebrate**](https://github.com/arb/celebrate) — A joi validation middleware for Express 
+- :iphone: [**Expo**](https://expo.io/) —  A tool used in mobile development with React Native that allows easy access to the device’s native API’s
 
 ## 💻 Project
 
