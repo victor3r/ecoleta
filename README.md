@@ -68,4 +68,4 @@ You can view the project layout through [this link](https://www.figma.com/file/9
 
 ## :memo: License
 
-This project is licensed under the GPL License - see the [LICENSE](https://opensource.org/licenses/gpl-license) page for details.
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
