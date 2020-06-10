@@ -50,7 +50,9 @@ You can view the project layout through [this link](https://www.figma.com/file/9
 1. Move yourself to the server folder: `cd server`
 2. Run `npm install` to install dependencies<br />
 3. Create a `.env` file and add the UPLOADS url connection in UPLOADS_URL field
-4. Run `npm run dev` to start the server
+4. Run `npm run knex:migrate` to create the database
+5. Run `npm run knex:seed` to populate the database
+6. Run `npm run dev` to start the server
 
 ### Getting started with the web app
 
@@ -64,7 +66,6 @@ You can view the project layout through [this link](https://www.figma.com/file/9
 1. Move yourself to the mobile folder: `cd mobile`
 2. Run `npm install` to install dependencies<br />
 3. Run `npm start` to start the mobile app
-4. Download the [Expo](https://expo.io/learn) app and scan the QR code that appears on the screen
 
 ## :memo: License
 
